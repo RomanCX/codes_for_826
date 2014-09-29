@@ -1,0 +1,6 @@
+hnext -n 2 0 0
+hnext -n 2 2 3
+hnext -n 3 5 6
+hnext -n 4 11 12
+hnext -n 4 7 3
+hnext -n 5 7 30
